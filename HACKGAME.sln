@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HACKGAME", "HACKGAME\HACKGAME.csproj", "{79C04E70-9EDA-4537-B778-4301EE499EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		РЕЛИЗ|Any CPU = РЕЛИЗ|Any CPU
+		РЕЛИЗ|x64 = РЕЛИЗ|x64
+		РЕЛИЗ|x86 = РЕЛИЗ|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Debug|x64.ActiveCfg = Debug|x64
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Debug|x64.Build.0 = Debug|x64
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Debug|x86.ActiveCfg = Debug|x86
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Debug|x86.Build.0 = Debug|x86
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Release|x64.ActiveCfg = Release|x64
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Release|x64.Build.0 = Release|x64
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Release|x86.ActiveCfg = Release|x86
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.Release|x86.Build.0 = Release|x86
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.РЕЛИЗ|Any CPU.ActiveCfg = РЕЛИЗ|Any CPU
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.РЕЛИЗ|Any CPU.Build.0 = РЕЛИЗ|Any CPU
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.РЕЛИЗ|x64.ActiveCfg = РЕЛИЗ|x64
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.РЕЛИЗ|x64.Build.0 = РЕЛИЗ|x64
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.РЕЛИЗ|x86.ActiveCfg = РЕЛИЗ|x86
+		{79C04E70-9EDA-4537-B778-4301EE499EA4}.РЕЛИЗ|x86.Build.0 = РЕЛИЗ|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B320AF-5630-4002-B744-643FA598BD0C}
+	EndGlobalSection
+EndGlobal

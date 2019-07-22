@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\bin\Debug\HACKGAME.exe.config
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\bin\Debug\HACKGAME.exe
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\bin\Debug\HACKGAME.pdb
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.Properties.Resources.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.exe
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.pdb
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\bin\Debug\MySql.Data.DLL
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.csproj.CopyComplete
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.MAIN.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.MENU.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.AUTH.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.REGIST.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Debug\HACKGAME.Form1.resources

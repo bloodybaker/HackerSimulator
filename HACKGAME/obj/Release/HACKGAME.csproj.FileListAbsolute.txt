@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\bin\Release\HACKGAME.exe.config
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.MAIN.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.MENU.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.AUTH.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.Properties.Resources.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.REGIST.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\bin\Release\HACKGAME.exe
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\bin\Release\HACKGAME.pdb
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\bin\Release\MySql.Data.DLL
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.exe
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.pdb
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.Chat.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.Form2.resources
+C:\Users\Admin\source\repos\HACKGAME\HACKGAME\obj\Release\HACKGAME.Terminal.resources
